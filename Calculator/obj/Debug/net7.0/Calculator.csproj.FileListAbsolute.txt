@@ -1,0 +1,15 @@
+E:\git\cs2\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+E:\git\cs2\Calculator\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\cs2\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+E:\git\cs2\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+E:\git\cs2\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+E:\git\cs2\Calculator\Calculator\bin\Debug\net7.0\Calculator.exe
+E:\git\cs2\Calculator\Calculator\bin\Debug\net7.0\Calculator.deps.json
+E:\git\cs2\Calculator\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+E:\git\cs2\Calculator\Calculator\bin\Debug\net7.0\Calculator.dll
+E:\git\cs2\Calculator\Calculator\bin\Debug\net7.0\Calculator.pdb
+E:\git\cs2\Calculator\Calculator\obj\Debug\net7.0\Calculator.dll
+E:\git\cs2\Calculator\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+E:\git\cs2\Calculator\Calculator\obj\Debug\net7.0\Calculator.pdb
+E:\git\cs2\Calculator\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+E:\git\cs2\Calculator\Calculator\obj\Debug\net7.0\ref\Calculator.dll
